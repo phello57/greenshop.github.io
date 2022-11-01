@@ -1,7 +1,7 @@
 Ссылка: https://phello57.github.io/greenshop.github.io/
 <br> Макет: https://www.figma.com/file/GDInt7mjgpSp3YUE2cgxN0/GreenShop?node-id=0%3A1
 
-## Блоки с пояснением что работает
+## Что работает и код
 ### 1. Меню
 ![Диаграмма без названия drawio (2)](https://user-images.githubusercontent.com/103268341/199113426-c27da146-6af4-4f83-be79-8dfc015be6ce.png)
 ### 2. Слайдер
